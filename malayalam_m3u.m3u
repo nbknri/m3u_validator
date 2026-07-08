@@ -17,8 +17,6 @@ https://cdn-7.pishow.tv/live/1129/master.m3u8
 http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ppxUDxB.png",meWATCH LIVE 1 (1080p)
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/5VOPFzs.png",Anand TV (720p) [Not 24/7]
-https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/4ss0KfA.png",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jeevan_TV.png",Jeevan TV (576p)
@@ -47,8 +45,6 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Un2gxt4.png",Malabar News (720p)
 http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/diQftzP.png",Mathrubhumi News (576p)
-https://mumt02.tangotv.in/MATHRUBHUMINEWS/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MEDIA_ONE/images/LOGO_HD/image.png",Media One (720p)
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_KERALA/images/LOGO_HD/image.png",News18 Kerala (1080p)
