@@ -57,6 +57,8 @@ https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 http://srnet.bmlive.net:1935/isaisaral/mystream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png",Peppers TV (751p)
 https://cdn-2.pishow.tv/live/1383/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png",Raj Musix Tamil (1080p)
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://tavapi.inditechman.com/extras/images/srmusix.png",SRMusix
 http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/N6tKUZv.png",Sana Plus (1080p)
@@ -89,8 +91,6 @@ https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
 https://cdn-3.pishow.tv/live/1612/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Logo_of_Velicham_TV.png",Velicham TV (576p)
 https://cdn-3.pishow.tv/live/461/master.m3u8
-#EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/rux1Bo3h3-EDQZkoXjnUxpQzOdkKCdeKDgOC5N2ZZYO_8qYHiOHlg1Iegqthw25k0D9S",Aaryaa Tv
-https://live.sscloud7.in/live/aaryaatv/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/sPVbaR_HUZkQKIUGw0MalnzReEY7PGXcF4_S0RzAQgoe3DNsivPEYPAwZ6fHqcBOM1vR",Anandham Tv
 https://server.sscloud7.in/live/anandhamtv/index.mpd
 #EXTINF:-1 group-title="OTT" tvg-logo="https://phoenixcreations.online/v1/008jenifertv/assets/tvchannels/jenifertv-tvchannelavathar-jenifertv1695969914.png",Ayya  Tv
@@ -175,6 +175,14 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/YQK9ewf.png",Aastha Tamil (480p)
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV (720p)
+https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV America (720p)
+https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV Indo-China (720p)
+https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/qKLEGU7.png",Angel TV Indonesia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png",Arputhar Yesu TV (720p)
 https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512",Hebron TV (1080p)
@@ -209,8 +217,6 @@ https://live.singamcloud.in/bsctv/bsctv/index.m3u8
 http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://play-lh.googleusercontent.com/aBew5B-0cj9MG3EEPJy8mUydKUOKtppN2pAGqzKKOKvnoVD9WJob4QXdy92wwBp4FYfR=w240-h480-rw", South Vision TV
 https://live.skystream.in/live/southvsnklm/index.m3u8
-#EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1721757500.PNG",Aaryaa TV
-https://live.sscloud7.in/live/aaryaatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://i.ibb.co/WWHNT7M/isai-saral.png",ISAI SARAL TV
 http://srnet.bmlive.net:1935/isaisaral/mystream/index.m3u8
 #EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://play-lh.googleusercontent.com/dKruTJ3CfY9KA2Cwl5FAv7jiIPxPdrJHorOzhWfftBhUGmhECXZ4y0kdreGz6YgMcjk=w480-h960-rw",OM TV
