@@ -61,8 +61,6 @@ https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 http://srnet.bmlive.net:1935/isaisaral/mystream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png",Peppers TV (751p)
 https://cdn-2.pishow.tv/live/1383/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png",Raj Musix Tamil (1080p)
-https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://tavapi.inditechman.com/extras/images/srmusix.png",SRMusix
 http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/N6tKUZv.png",Sana Plus (1080p)
@@ -83,6 +81,8 @@ https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-a
 https://cdn-4.pishow.tv/live/1121/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",ND TV
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png",News 80
+http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
 #EXTINF:-1 group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7/images/LOGO_HD/image.png",News Tamil 24x7 (576p)
 https://cdn-3.pishow.tv/live/1433/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540",Puthiya Thalaimurai (576p)
@@ -101,10 +101,14 @@ https://server.sscloud7.in/live/anandhamtv/index.mpd
 http://raghultv.sscloud7.in/live/ayyatv/playlist.mpd
 #EXTINF:-1 group-title="OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DoI_04t7Lkiq15B8Dr5RixhQvbRJJq0NHg&s",Bharathi TV
 https://server.sscloud7.in/live/bharathitv/index.mpd
+#EXTINF:-1 group-title="OTT" tvg-logo="https://phoenixcreations.online/v1/007raghultv/assets/tvchannels/raghultv-tvchannelavathar-raghultv1735230670.png",Blood Off Jesus Tv
+http://raghultv.sscloud7.in/live/yovantv/playlist.mpd
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/OZC3XALE6RuarHXPuMoaP89xjuuui3_gV_xuk-W4Va_3y4PW-oN8HiwLKhrFZbcWtw=w240-h480-rw",Deivaoli Tv
 http://deivaoli.sscloud7.in/live/deivaoli/index.mpd
 #EXTINF:-1 group-title="OTT" tvg-logo="https://yt3.googleusercontent.com/ve3HjSFYlGsadaxPEiqKPy_GzqXAPTyexP2WZLf92MBURD-tzqTlEYermplq9DIe6Fx9oGX2UA=s900-c-k-c0x00ffffff-no-rj",Dharshan Tv
 https://stream.galaxyott.live/live/dharshantv/index.m3u8
+#EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/JIDLyaNUGSSKfeACT3tH5u6zusXveTpGeRrff0bW-zn8A25nCvptdvLdPu_R9PpYpg",Isai Tv
+https://server.sscloud7.in/isaihd/isaihd/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/xcQOgfZJTtxaQJmjuHk_hvvZNzC-gm39Dn1wfPbZmC6G1RHEpgHJtSULkmRku-fY_O4",Jayam Tv
 http://jeyamtv.sscloud7.in/live/jeyamtv/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://phoenixcreations.online/v1/008jenifertv/assets/channellogo/jenifertv-channellogo-jenifertv1695969380.png",Jenifer TV
@@ -119,6 +123,8 @@ http://kirubaitv.sscloud7.in/live/kirubaitv/index.mpd
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmy9BIV0nIetM_IUr4VdNm3M4BIaILkEuV2A&s",Makkal Tv
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+#EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/VFvalPp4IMh7AVU4OOgF7-mnNhSkxnFB5LNnqa31Uds6EjB9Xk3YoMo1WrH9V13rkw_vPC49Dzh1JWnzzrVu",Malar Tv
+http://malartv.sscloud7.in/malartv/malartv/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/9AlykB4_g2oVcTcoC38HTQNYFlwpaCmC9WRqYGVn46BjBVl6dMk4-PseUDRWrXRY2ZQ",Manisha Tv
 https://stream.sscloud7.in/live/maishatv/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757327.PNG",Maran Tv
