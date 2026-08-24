@@ -85,8 +85,6 @@ https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-a
 https://cdn-4.pishow.tv/live/1121/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",ND TV
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png",News 80
-http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
 #EXTINF:-1 group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7/images/LOGO_HD/image.png",News Tamil 24x7 (576p)
 https://cdn-3.pishow.tv/live/1433/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540",Puthiya Thalaimurai (576p)
