@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tavapi.inditechman.com/extras/images/saitvm.png", SAI TV
 http://198.144.149.206:8080/NOTV/SAITVMD/index.m3u8?token=GTR
+#EXTINF:-1 group-title="Entertainment" tvg-logo="",Bright Simrose TV
+https://notvstream.in/brightsimrosetv/brightsimrosetv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tavapi.inditechman.com/extras/images/imaitv.png",Imai TV
 https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://jenohdtv.gq/wp-content/uploads/2019/11/Makkal-TV.png",Makkal TV
@@ -11,6 +13,8 @@ https://thendralstream.in/Meialaitv/meihd/index.m3u8
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tavapi.inditechman.com/extras/images/nichatv.jpg",Nisha TV
 http://103.159.180.5:1935/live/nishanew/live.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_TV/images/LOGO_HD/image.png",Raj TV (1080p)
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240329_1856098805902789330765050.png",SM CV TV
 https://singamcloud.in/smcvtv/smcvtv/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan Cinema
@@ -127,8 +131,6 @@ http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/VFvalPp4IMh7AVU4OOgF7-mnNhSkxnFB5LNnqa31Uds6EjB9Xk3YoMo1WrH9V13rkw_vPC49Dzh1JWnzzrVu",Malar Tv
 http://malartv.sscloud7.in/malartv/malartv/index.m3u8
-#EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/9AlykB4_g2oVcTcoC38HTQNYFlwpaCmC9WRqYGVn46BjBVl6dMk4-PseUDRWrXRY2ZQ",Manisha Tv
-https://stream.sscloud7.in/live/maishatv/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1721757327.PNG",Maran Tv
 https://server.sscloud7.in/live/marantv/index.mpd
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/UVc6l0tUqHwyP90mPznDMc2A3jLzSVVx1-Ux-OB3vKd6wcaln3RPN1pbuqiUd10tRbc",N TV
@@ -155,10 +157,10 @@ https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 https://sscloud7.com/live/sharontv/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://sscloud7.in/rasinetwork/sshdlogo.png",SS HD
 http://sshd.sscloud7.in/live/sshd/index.m3u8
-#EXTINF:-1 group-title="OTT" tvg-logo="https://sscloud7.in/rasinetwork/subashtv.png",SUBASH HD
-http://subashhd.sscloud7.in/live/subashhd/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/FvkjCrWmYV__Sl4_7wf0ScZrrHcHfYlo3-6JmRn0NkxTXJ7IGHLoMLqa576xrHXMU-dc",Sai Tv
 http://saitv.sscloud7.in/live/livesaitv/index.mpd
+#EXTINF:-1 group-title="OTT" tvg-logo="https://sscloud7.in/rasinetwork/sakthitv.png",Sakthi Tv
+http://sakthitv.sscloud7.in/live/sakthitv/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/dlB8gw2yqzd8bcuvtgux5jJT-Ul26SjZio7Dsk_0qhR9ZzF3NxxbvZqjWF8kej_tUQ",Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/d9CowjhBRwa6Fe6ecj3cNkHZ_-G4T2_C_bB09hsBRPYQJwnf-rjD_PuqeJs6jcQHbg",Sana TV
@@ -213,6 +215,8 @@ https://cdn-3.pishow.tv/live/1611/master.m3u8
 https://cdn-3.pishow.tv/live/1135/master.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.ibb.co/b3HG9wm/Logo-site.png",Sivan TV (1080p)
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://play-lh.googleusercontent.com/QVO_t78aErMkqR5gygKlJaf7axh6--NFfeBdaaI9hcbWaJsYFbmLTlfU538pd4En7SA=w526-h296-rw", Aarthi TV
+http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://play-lh.googleusercontent.com/aBew5B-0cj9MG3EEPJy8mUydKUOKtppN2pAGqzKKOKvnoVD9WJob4QXdy92wwBp4FYfR=w240-h480-rw", South Vision TV
 https://live.skystream.in/live/southvsnklm/index.m3u8
 #EXTINF:-1 group-title="TLL MUSIC" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1721757500.PNG",Aaryaa TV
