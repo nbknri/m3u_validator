@@ -23,6 +23,8 @@ https://kcltv.livebox.co.in/kclhls/live.m3u8
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/fjgzW20.png",Mazhavil Manorama (576p)
 https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/fjgzW20.png",Mazhavil Manorama HD (1080p)
+https://cdn-7.pishow.tv/live/1129/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/v5urG30.png",Pulari TV
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ppxUDxB.png",meWATCH LIVE 1 (1080p)
