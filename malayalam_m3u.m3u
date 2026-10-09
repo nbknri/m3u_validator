@@ -17,16 +17,12 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/in
 https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/NaiA73p.png",Jaihind TV (576p)
 https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/bkp9dIm.png",KCL TV (720p)
-https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/SWNjyyp.png",Kerala Vision (576p)
 https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/mUHixbi.png",Magnavision TV (720p)
 https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/fjgzW20.png",Mazhavil Manorama (576p)
 https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/fjgzW20.png",Mazhavil Manorama HD (1080p)
-https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/v5urG30.png",Pulari TV (576p)
 https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ppxUDxB.png",meWATCH LIVE 1 (1080p)
@@ -45,8 +41,6 @@ https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KbU36xI.png",VCV (720p) [Not 24/7]
 https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/YozqNL3.jpg",Vision (India) (576p)
-http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/zsTxPV9.png",ETV Bal Bharat (576p)
 http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",Nickelodeon (India) (576p)
