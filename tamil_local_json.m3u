@@ -63,8 +63,6 @@ http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
 http://198.144.149.206:8080/ANALAI_MOVIE/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 group-title="Local" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv1700891344.PNG",Isai TV
 http://server.sscloud7.in/isaihd/isaihd/index.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://play-lh.googleusercontent.com/132rC5tXdkfjCFy1_azsNzqEjIM2uf-Ds5k7B_JmF4mgQiNEO8T3QAuowymB_TNVzg=s180-rw",KAVIN TV
-http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="Local" tvg-logo="https://tavapi.inditechman.com/extras/images/1616305753_kanichi.png",Kanchi TV
 http://198.144.149.206:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 group-title="Local" tvg-logo="",Mon Tamil TV
@@ -97,8 +95,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_News7_Tamil_Logo.jpg",News 7 Tamil
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://pbs.twimg.com/profile_images/456353237017194496/jXuuAcD2_400x400.png",News 80
-http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
 #EXTINF:-1 group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_TAMIL_24X7/images/LOGO_HD/image.png",News Tamil 24x7 (576p)
 https://cdn.pishow.tv/ott/live/1433/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s143692_ld_h15_aa.png?lock=720x540",Puthiya Thalaimurai (576p)
@@ -163,8 +159,6 @@ https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
 http://sshd.sscloud7.in/live/sshd/index.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://sscloud7.in/rasinetwork/subashtv.png",SUBASH HD
 http://subashhd.sscloud7.in/live/subashhd/index.m3u8
-#EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/FvkjCrWmYV__Sl4_7wf0ScZrrHcHfYlo3-6JmRn0NkxTXJ7IGHLoMLqa576xrHXMU-dc",Sai Tv
-http://saitv.sscloud7.in/live/livesaitv/index.mpd
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/dlB8gw2yqzd8bcuvtgux5jJT-Ul26SjZio7Dsk_0qhR9ZzF3NxxbvZqjWF8kej_tUQ",Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 group-title="OTT" tvg-logo="https://play-lh.googleusercontent.com/d9CowjhBRwa6Fe6ecj3cNkHZ_-G4T2_C_bB09hsBRPYQJwnf-rjD_PuqeJs6jcQHbg",Sana TV
@@ -311,8 +305,6 @@ https://notvstream.in/mathitv/mathitv/index.m3u8
 https://notvstream.in/ntv/ntv/index.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://play-lh.googleusercontent.com/Z3NviXxNAKysRw8YFctVNqO87auqy7ic731owb8D-e2efpZO2ZM-iObZippjiwjHRwq3tB_sRDSdJC_WO4M9=s512-rw",Naga TV
 http://nagatv.phoenixcreations.online/nagatv/nagatv/index.m3u8
-#EXTINF:-1 group-title="TAMIL" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1747992529_namathu%20%20SANGAMAM%20TV.png",Namathu Sangamam TV
-http://yours.7starcloud.com:1935/live/nmtv/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://tamiltvchannels.com/img/devotional/Nijam TV.png",Nijam TV
 https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://play-lh.googleusercontent.com/-AJSA_oGQROLDwiwj6J1GAzUee1WIh3zwUSj8wGZYNwaRn0JUSDYTYkCdKLvoiJr8j33=w512-h960-rw",Nila TV Pannur
@@ -365,8 +357,6 @@ http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 http://skymedia.phoenixcreations.online/skymedia/skymedia/index.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/02/1669967959_smart.jpg",Smart Sri TV
 https://mumbai-edge.smartplaytv.in/smartsri/index.m3u8
-#EXTINF:-1 group-title="TAMIL" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",Sooriyan TV (1080p)
-https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://i.ibb.co/JFzHmL4C/Sai-TV.jpg",Sri Sai TV
 https://annainew.livebox.co.in/srisaihls/live.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1737002385_1732253762_IMG-20241122-WA0018-removebg-preview.png",Subi TV
@@ -403,5 +393,3 @@ https://app.ashokadigital.net/app/3b31be9f/index.m3u8
 https://app.ashokadigital.net/app/68b001a0/index.m3u8
 #EXTINF:-1 group-title="TAMIL" tvg-logo="https://tamiltvchannels.com/img/devotional/Vinmeen%20Music.png",Vinmeen Music
 https://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
-#EXTINF:-1 group-title="TAMIL" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1748079240_YOURS%20TV.png",Yours TV
-http://yours.7starcloud.com:1935/live/yourstv/playlist.m3u8
