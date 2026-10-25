@@ -61,8 +61,6 @@ https://cdn.pishow.tv/ott/live/1737/master.m3u8
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MAKKAL_TV/images/LOGO_HD/image.png",Makkal TV (576i)
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://www.meialai.com/assets/meialai-DBaBUZTH.png",Mei Alai TV (576p)
-https://meialai.iptelevishion.com/meialai/2/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/xv9cWSh.png",Chithiram (576p)
 https://cdn.pishow.tv/ott/live/1243/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/0iNQvoL.png",Discovery Kids (720p)
