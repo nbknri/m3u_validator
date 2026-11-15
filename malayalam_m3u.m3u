@@ -21,6 +21,8 @@ https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
 https://cdn.pishow.tv/ott/live/1479/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/v5urG30.png",Pulari TV (576p)
 https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png",Sun Surya HD (1080p)
+https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ppxUDxB.png",meWATCH LIVE 1 (1080p)
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/5VOPFzs.png",Anand TV (United Kingdom) (720p) [Not 24/7]
