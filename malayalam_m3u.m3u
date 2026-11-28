@@ -33,10 +33,10 @@ https://cdn.pishow.tv/ott/live/243/master.m3u8
 https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/p6kf0FfH/1000151556.png",Malabar Plus (720p)
 http://cloud.logichost.in:1935/live/mplus/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://cdn.aptoide.com/imgs/f/c/d/fcdcdfe7f3ced7623f252e9ea0080374_icon.png",Malappuram Cable Vision (1080p)
-http://cloud.logichost.in:1935/live/mcvlive/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/fjgzW20.png",Mazhavil Manorama (576p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ad6c59acd03b4b5a9928e32d7fee66db/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739890627_WhatsApp_Image_2025-02-18_at_8.25.19_PM__1_-removebg-preview.png",N Vision (1080p)
+https://ipcloud.live/nvision/nvisionhd/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://play-lh.googleusercontent.com/bS6HNpsLqv-Irw64TaPYqk3o8AlMiA96GJjD8qUfIzgtoeC23CCLrGW5iReGh1jMlP7djBZhxsJ_2wFLWpHB",NM Media Channel HD (1080p)
 https://live.skystream.in/live/newmedia2924/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://play-lh.googleusercontent.com/YwH6c1AqIM7LFOIBx0taFOmdHeoyIhLChk8PZCEHMtdm06-fK4fmpmsTl9tMjDRHSvOtz6gFKQygccgXQgAVSTE",NTV UAE HD (720p)
@@ -45,6 +45,8 @@ https://stream.logichost.in/NTV/live/chunklist_w833817414.m3u8
 https://live.skystream.in/live/newvision2924/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://play-lh.googleusercontent.com/Oh0y8uEVV7LIlMBig3mi5xthzsUeOMWXxkHh6CpNf8uousEVwTCCEgLnNIYPPOd5aWw5f7lAWOqPqP93y2H7",Periyar Vision (1080p)
 https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/XrBb1DNZ/1000153157.png",Powran Media (720p) [Not 24/7]
+https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/v5urG30.png",Pulari TV (576p)
 https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://play-lh.googleusercontent.com/R8Z8juih4xjZthHZeKnFqJTLFmf-GZfRLvcVHdeX7VNw568mvI6mES5LVbvTlPOSO8qoAjDE01fGy93XKkliyg=w512-h512",South Vision (1080p)
@@ -111,8 +113,6 @@ https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/mast
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_NEWS_MALAYALAM/images/LOGO_HD/image.png",Raj News Malayalam (576p)
 https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Real_News_Kerala.png",Real News Kerala (1080p) [Not 24/7]
-https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s85096_ld_h15_aa.png?lock=720x540",Reporter TV (576p)
 https://cdn.pishow.tv/ott/live/1510/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/SvXCjha.png",VBC News (1080p)
